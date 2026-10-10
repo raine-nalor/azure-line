@@ -36,7 +36,7 @@ This repository contains my activities and assessments for the subject. It serve
 ### 🥀 Activity 3
 [↗ View Activity 3](./ACTIVITY%203/)
 
-### 🌹 Midterm
+### 🌹 Midterms
 [↗ View Midterms](./MIDTERMS/)
 
 ---
@@ -61,5 +61,12 @@ This repository contains my activities and assessments for the subject. It serve
 *Growing through knowledge, one step at a time.*
 
 ♡ Made by Lorraine P. Montero ♡
+
+
+<div align="center">
+
+![Azure Line Banner](images/blue-roses-banner.png)
+
+</div>
 
 </div>
