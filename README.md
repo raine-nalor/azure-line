@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Azure Line Banner](images/blue-roses-banner.png.jpg)
+![Azure Line Banner](images/blue-roses-banner.png)
 
 </div>
 
