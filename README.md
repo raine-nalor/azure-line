@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/blue-roses-banner.png" width="100%" alt="Azure Line Blue Roses Banner" />
+<img src="images/blue-roses-banner.jpg" width="100%" alt="Azure Line Blue Roses Banner" />
 
 <br/>
 
