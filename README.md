@@ -49,7 +49,7 @@ This repository contains my activities and assessments completed throughout the 
 | 01 | **Activity 1** | [↗ Open](./ACTIVITY%201/) |
 | 02 | **Activity 2** | [↗ Open](./ACTIVITY%202/) |
 | 03 | **Activity 3** | [↗ Open](./ACTIVITY%203/) |
-| 04 | **Midterm Assessment** | [↗ Open](./MIDTERM/) |
+| 04 | **Midterm Assessment** | [↗ Open](./MIDTERMS/) |
 
 ---
 
