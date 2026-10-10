@@ -25,17 +25,6 @@ This repository contains my activities and assessments for the subject. It serve
 
 ---
 
-## 📑 Table of Contents
-
-| No. | Title |
-|:---:|---|
-| 01 | [🥀 Activity 1](#activity-1) |
-| 02 | [🥀 Activity 2](#activity-2) |
-| 03 | [🥀 Activity 3](#activity-3) |
-| 04 | [🌹 Midterm](#midterm) |
-
----
-
 ## 📘 Activities and Assessments
 
 ### 🥀 Activity 1
@@ -48,7 +37,7 @@ This repository contains my activities and assessments for the subject. It serve
 [↗ View Activity 3](./ACTIVITY%203/)
 
 ### 🌹 Midterm
-[↗ View Midterm](./MIDTERM/)
+[↗ View Midterms](./MIDTERMS/)
 
 ---
 
