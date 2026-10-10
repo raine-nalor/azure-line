@@ -1,89 +1,88 @@
 
 <div align="center">
 
-<img src="images/blue-roses-banner.jpg" width="100%" alt="Azure Line Blue Roses Banner" />
+<img src="images/blue-roses-banner.png" width="100%" alt="Azure Line | Blue Roses" />
 
 <br/>
+
+<sub>✦ ─────── ❦ ─────── ✦</sub>
 
 # 𝓐𝔃𝓾𝓻𝓮 𝓛𝓲𝓷𝓮
 
-### 21st Century IT Skills Portfolio
+### 𝘈 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘨𝘳𝘰𝘸𝘵𝘩
 
 **Lorraine P. Montero**  
-BSN-4D | 99-040
+BSN-4D · 99-040
 
-*Where learning meets creativity.*
+*21st Century IT Skills*
 
 <br/>
 
-<img src="https://img.shields.io/badge/COURSE-99--040-172B4D?style=for-the-badge&labelColor=0B1628" alt="Course 99-040" />
-<img src="https://img.shields.io/badge/SECTION-BSN--4D-4169A1?style=for-the-badge&labelColor=0B1628" alt="Section BSN-4D" />
+<img src="https://img.shields.io/badge/COURSE-99--040-172B4D?style=flat-square" alt="Course 99-040" />
+<img src="https://img.shields.io/badge/SECTION-BSN--4D-4169A1?style=flat-square" alt="Section BSN-4D" />
+<img src="https://img.shields.io/badge/PORTFOLIO-2026-243B64?style=flat-square" alt="Portfolio 2026" />
 
 <br/><br/>
 
-✦ ━━━━━━━━━━━━━━━━━━━━━ ✦
-
-*Learning • Creating • Growing*
+❝ *Learning quietly, growing endlessly.* ❞
 
 </div>
 
 ---
 
-## 🥀 About This Repository
+## 𓆩♡𓆪 About This Space
 
-Welcome to **AZURE LINE**, my digital portfolio for **99-040: 21st Century IT Skills**.
+Welcome to **Azure Line**, my personal academic portfolio for **99-040: 21st Century IT Skills**.
 
-This repository contains my activities and assessments for the subject. It serves as a collection of my learning outputs and progress in developing digital literacy, technical skills, and responsible use of technology.
-
-
----
-
-## 📘 Activities and Assessments
-
-### 🥀 Activity 1
-
-[↗ View Activity 1](./ACTIVITY%201/)
+This repository contains my activities and assessments completed throughout the subject. It reflects my learning journey as I continue to explore digital tools, strengthen my technical skills, and understand the role of technology in today's world.
 
 ---
 
-### 🥀 Activity 2
+## 𓇢𓆸 Table of Contents
 
-[↗ View Activity 2](./ACTIVITY%202/)
+<sub>SELECT AN ENTRY TO EXPLORE MY WORK</sub>
 
----
+<br/>
 
-### 🥀 Activity 3
-
-[↗ View Activity 3](./ACTIVITY%203/)
-
----
-
-### 🌹 Midterms
-
-[↗ View Midterms](./MIDTERMS/)
+| NO. | ACTIVITY | ACCESS |
+|:---:|:---|:---:|
+| 01 | **Activity 1** | [↗ Open](./ACTIVITY%201/) |
+| 02 | **Activity 2** | [↗ Open](./ACTIVITY%202/) |
+| 03 | **Activity 3** | [↗ Open](./ACTIVITY%203/) |
+| 04 | **Midterm Assessment** | [↗ Open](./MIDTERM/) |
 
 ---
 
 ## 🦢 About Me
 
+<details>
+<summary><b>❦ Academic Profile</b></summary>
+
+<br/>
+
 | Information | Details |
-|---|---|
-| **Name** | Lorraine P. Montero |
-| **Section** | BSN-4D |
-| **Subject Code** | 99-040 |
+|:---|:---|
+| **Full Name** | Lorraine P. Montero |
+| **Program & Section** | BSN-4D |
+| **Course Code** | 99-040 |
 | **Subject** | 21st Century IT Skills |
-| **Portfolio Name** | AZURE LINE |
+| **Portfolio Name** | Azure Line |
+| **Year** | 2026 |
+
+</details>
 
 ---
 
 <div align="center">
 
-✧ ──────────────── 🥀 ──────────────── ✧
+### 𝒯𝒽𝒶𝓃𝓀 𝓎𝑜𝓊 𝒻𝑜𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔
 
-### Thank you for visiting AZURE LINE.
+<sub>❦ ───────────────────────── ❦</sub>
 
-*Growing through knowledge, one step at a time.*
+*Every small step is part of a greater becoming.*
 
-**♡ Made by Lorraine P. Montero ♡**
+**𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 𝓟. 𝓜𝓸𝓷𝓽𝓮𝓻𝓸**
+
+<sub>✦ AZURE LINE · 2026 ✦</sub>
 
 </div>
