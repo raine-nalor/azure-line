@@ -1,6 +1,12 @@
 
 <div align="center">
 
+![Azure Line Banner](images/blue-roses-banner.png)
+
+</div>
+
+<div align="center">
+
 # 🥀 AZURE LINE
 
 ### 21st Century IT Skills Portfolio
@@ -61,12 +67,5 @@ This repository contains my activities and assessments for the subject. It serve
 *Growing through knowledge, one step at a time.*
 
 ♡ Made by Lorraine P. Montero ♡
-
-
-<div align="center">
-
-![Azure Line Banner](images/blue-roses-banner.png)
-
-</div>
 
 </div>
