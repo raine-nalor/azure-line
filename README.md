@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/blue-roses-banner.png" width="100%" alt="Azure Line | Blue Roses" />
+![Azure Line Banner](images/blue-roses-banner.png)
 
 <br/>
 
