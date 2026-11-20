@@ -59,7 +59,6 @@ This repository contains my activities and assessments completed throughout the 
 | 05 | **Activity 5 – AI Tools Activity** | [↗ Open](./Activity-5/) |
 | 06 | **Activity 6 – Website Development** | [↗ Open](./Activity-6/) |
 | 07 | **Activity 7 – Resume Generation** | [↗ Open](./Activity-7/) |
-| 08 | **Midterm Assessment** | [↗ Open](./MIDTERMS/) |
 
 ---
 
