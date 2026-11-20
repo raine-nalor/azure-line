@@ -14,6 +14,12 @@
 **Lorraine P. Montero**  
 BSN-4D · 99-040
 
+<img src="images/lorraine-profile.jpg"
+     width="150"
+     alt="Lorraine P. Montero">
+
+I am Lorraine P. Montero, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University. Through this course, I have explored different digital tools and technologies that help improve my understanding of information technology and its applications. I enjoy learning new skills, organizing creative projects, and discovering ways technology can make everyday tasks easier.
+ 
 *21st Century IT Skills*
 
 <br/>
