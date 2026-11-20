@@ -52,10 +52,14 @@ This repository contains my activities and assessments completed throughout the 
 
 | NO. | ACTIVITY | ACCESS |
 |:---:|:---|:---:|
-| 01 | **Activity 1** | [↗ Open](./ACTIVITY%201/) |
-| 02 | **Activity 2** | [↗ Open](./ACTIVITY%202/) |
-| 03 | **Activity 3** | [↗ Open](./ACTIVITY%203/) |
-| 04 | **Midterm Assessment** | [↗ Open](./MIDTERMS/) |
+| 01 | **Activity 1 – Presentation Design Principles** | [↗ Open](./Activity-1/) |
+| 02 | **Activity 2 – Personal Branding** | [↗ Open](./Activity-2/) |
+| 03 | **Activity 3 – Infographic and Project Documentation** | [↗ Open](./Activity-3/) |
+| 04 | **Activity 4 – Google Docs Group Presentation** | [↗ Open](./Activity-4/) |
+| 05 | **Activity 5 – AI Tools Activity** | [↗ Open](./Activity-5/) |
+| 06 | **Activity 6 – Website Development** | [↗ Open](./Activity-6/) |
+| 07 | **Activity 7 – Resume Generation** | [↗ Open](./Activity-7/) |
+| 08 | **Midterm Assessment** | [↗ Open](./MIDTERMS/) |
 
 ---
 
