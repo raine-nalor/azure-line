@@ -18,8 +18,22 @@
 **Lorraine P. Montero**  
 BSN-4D · 99-040
 
-I’m **Lorraine P. Montero**, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University. Throughout this course, I’ve gained experience using various digital tools and exploring how technology is applied in everyday life. I enjoy discovering new things, developing my skills, and creating projects that allow me to express my creativity while learning along the way.
- 
+## 𓇢𓆸 About Me
+
+I'm Lorraine P. Montero, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University, currently taking 21st Century IT Skills.
+
+I enjoy exploring new technologies, creative design, and digital tools. I’m particularly interested in photography, visual storytelling, and finding ways to combine technology with learning and everyday life.
+
+## 𓇢𓆸 Skills & Tools
+
+Throughout this course, I have gained experience with:
+
+- **GitHub** – Organizing projects and managing files in repositories.
+- **Canva** – Creating presentations, posters, and visual materials.
+- **ChatGPT & Gemini** – Using AI for image generation, content development, and resume creation.
+- **Replit** – Building a one-page website with AI assistance.
+- **Digital Documentation** – Preparing and organizing project files and reports.
+  
 *21st Century IT Skills*
 
 <br/>
